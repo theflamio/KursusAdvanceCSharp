@@ -20,6 +20,16 @@ namespace Opgaver_Samlinger
                 Console.WriteLine($" ID = {p.Id} NAVN = {p.Navn}");
             }
 
+            Console.WriteLine($"\n");
+            person.RemoveAt(1);
+
+            foreach (var p in person)
+            {
+                Console.WriteLine($" ID = {p.Id} NAVN = {p.Navn}");
+            }
+
+            Console.WriteLine($"\n");
+
             /* Stack 97-2 */
             /* https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.stack-1?view=netframework-4.8 */
 
@@ -54,21 +64,28 @@ namespace Opgaver_Samlinger
             }
         }
 
-        public class Bunke : Stack<Kort>
+        public class Bunke 
         {
-            public void TilføjKort(Kort)
+            private Stack<Kort> bunke = new Stack<Kort>();
+
+            public void TilføjKort(Kort k)
             {
-                
+                bunke.Push(k);
             }
 
             public void Vis()
             {
-
+                foreach (var item in bunke)
+                {
+                    Console.WriteLine(item);
+                }
             }
 
-            public void FjernKort()
+            public Kort FjernKort()
             {
-                
+                if (bunke.Count > 0)
+                    return bunke.Pop();
+                return null;
             }
         }
     }
