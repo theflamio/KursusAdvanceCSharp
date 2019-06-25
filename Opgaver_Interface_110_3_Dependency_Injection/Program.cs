@@ -6,7 +6,7 @@ namespace Opgaver_Interface_110_3_Dependency_Injection
     {
         static void Main(string[] args)
         {
-            ITilfældighedsGenerator m = new TilfældighedsGeneratorMock(3);
+            ITilfældighedsGenerator m = new TilfældighedsGeneratorMock(1);
             Console.WriteLine(m.FindTalTilTerning());
             ITilfældighedsGenerator f = new TilfældighedsGeneratorFramework();
             Console.WriteLine(f.FindTalTilTerning());

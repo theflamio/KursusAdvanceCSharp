@@ -25,6 +25,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_interface_110_2", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_Interface_110_3_Dependency_Injection", "Opgaver_Interface_110_3_Dependency_Injection\Opgaver_Interface_110_3_Dependency_Injection.csproj", "{DCFA8545-C508-4734-886D-616EFB06F106}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_AdvanceType_400_3", "Opgaver_AdvanceType_400_3\Opgaver_AdvanceType_400_3.csproj", "{B6D601BA-28E7-4C70-B84D-B5CB35A274D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_AdvanceTyper_LinkedList_400_2", "Opgaver_AdvanceTyper_LinkedList_400_2\Opgaver_AdvanceTyper_LinkedList_400_2.csproj", "{D010B581-7EC4-4F3F-B38D-DBE157E7DDE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_Samlinger_fibonacci", "Opgaver_Samlinger_fibonacci\Opgaver_Samlinger_fibonacci.csproj", "{9959857F-6034-4B36-A367-A701AE7168A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_Tuples_400_1", "Opgaver_Tuples_400_1\Opgaver_Tuples_400_1.csproj", "{CE705474-25BD-4A21-A6CD-DFED924F3073}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_GeneriskTyperOgMedlemmer_170_2", "Opgaver_GeneriskTyperOgMedlemmer_170_2\Opgaver_GeneriskTyperOgMedlemmer_170_2.csproj", "{11F4835F-9336-481A-B03B-EAC1987973AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_OverLoadOperator_LavDinEgenDataType", "Opgaver_OverLoadOperator_LavDinEgenDataType\Opgaver_OverLoadOperator_LavDinEgenDataType.csproj", "{0731D19D-2876-4E45-B8AD-A3AEA83C4A16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +87,30 @@ Global
 		{DCFA8545-C508-4734-886D-616EFB06F106}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCFA8545-C508-4734-886D-616EFB06F106}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCFA8545-C508-4734-886D-616EFB06F106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D601BA-28E7-4C70-B84D-B5CB35A274D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D601BA-28E7-4C70-B84D-B5CB35A274D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D601BA-28E7-4C70-B84D-B5CB35A274D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D601BA-28E7-4C70-B84D-B5CB35A274D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D010B581-7EC4-4F3F-B38D-DBE157E7DDE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D010B581-7EC4-4F3F-B38D-DBE157E7DDE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D010B581-7EC4-4F3F-B38D-DBE157E7DDE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D010B581-7EC4-4F3F-B38D-DBE157E7DDE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9959857F-6034-4B36-A367-A701AE7168A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9959857F-6034-4B36-A367-A701AE7168A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9959857F-6034-4B36-A367-A701AE7168A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9959857F-6034-4B36-A367-A701AE7168A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE705474-25BD-4A21-A6CD-DFED924F3073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE705474-25BD-4A21-A6CD-DFED924F3073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE705474-25BD-4A21-A6CD-DFED924F3073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE705474-25BD-4A21-A6CD-DFED924F3073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11F4835F-9336-481A-B03B-EAC1987973AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F4835F-9336-481A-B03B-EAC1987973AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F4835F-9336-481A-B03B-EAC1987973AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F4835F-9336-481A-B03B-EAC1987973AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0731D19D-2876-4E45-B8AD-A3AEA83C4A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0731D19D-2876-4E45-B8AD-A3AEA83C4A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0731D19D-2876-4E45-B8AD-A3AEA83C4A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0731D19D-2876-4E45-B8AD-A3AEA83C4A16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
