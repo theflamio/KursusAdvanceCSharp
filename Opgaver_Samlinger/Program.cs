@@ -54,20 +54,31 @@ namespace Opgaver_Samlinger
             }
         }
 
-        public class Bunke : Stack<Kort>
+        public class Bunke 
         {
-            public void TilføjKort(Kort)
+
+            private Stack<Kort> bunke = new Stack<Kort>();
+
+            public void TilføjKort(Kort k)
             {
-                
+                bunke.Push(k);
             }
 
             public void Vis()
             {
-
+                foreach (var item in bunke)
+                {
+                    Console.WriteLine(item);
+                }
             }
 
-            public void FjernKort()
+            public Kort FjernKort()
             {
+                if (bunke.Count > 0)
+                {
+                    return bunke.Pop();
+                }
+                return null;
                 
             }
         }
