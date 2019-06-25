@@ -3,21 +3,39 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KursusAdvanceCSharp", "KursusAdvanceCSharp\KursusAdvanceCSharp.csproj", "{1B66B3B1-7835-4C4D-90D1-42290F0341B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KursusAdvanceCSharp", "KursusAdvanceCSharp\KursusAdvanceCSharp.csproj", "{1B66B3B1-7835-4C4D-90D1-42290F0341B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Typer", "Typer\Typer.csproj", "{5D02E3B2-D1E4-414D-8314-574DE1C0226F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Typer", "Typer\Typer.csproj", "{5D02E3B2-D1E4-414D-8314-574DE1C0226F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructAndClassHeapStack", "StructAndClassHeapStack\StructAndClassHeapStack.csproj", "{281F02DE-E62B-49BC-BD88-F1016C6118CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructAndClassHeapStack", "StructAndClassHeapStack\StructAndClassHeapStack.csproj", "{281F02DE-E62B-49BC-BD88-F1016C6118CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave_Simple_Variabler2", "Opgave_Simple_Varialber2\Opgave_Simple_Variabler2.csproj", "{9759EEDE-57E4-40F3-B482-7E61BC59F979}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgave_Simple_Variabler2", "Opgave_Simple_Varialber2\Opgave_Simple_Variabler2.csproj", "{9759EEDE-57E4-40F3-B482-7E61BC59F979}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgave_Relaterede_Konstanter_Og_Strukturer", "Opgave_Relaterede_Konstanter_Og_Strukturer\Opgave_Relaterede_Konstanter_Og_Strukturer.csproj", "{6EA68DC7-2285-4CD6-9C3F-43F7EFF52FC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgave_Relaterede_Konstanter_Og_Strukturer", "Opgave_Relaterede_Konstanter_Og_Strukturer\Opgave_Relaterede_Konstanter_Og_Strukturer.csproj", "{6EA68DC7-2285-4CD6-9C3F-43F7EFF52FC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klasser", "Klasser\Klasser.csproj", "{3A3CC8F8-5716-4C14-AFB3-7747ED7D780C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Klasser", "Klasser\Klasser.csproj", "{3A3CC8F8-5716-4C14-AFB3-7747ED7D780C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nullable_Metoder", "Nullable_Metoder\Nullable_Metoder.csproj", "{E91230EA-5675-481B-BE14-D1242C518ADD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nullable_Metoder", "Nullable_Metoder\Nullable_Metoder.csproj", "{E91230EA-5675-481B-BE14-D1242C518ADD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_Samlinger", "Opgaver_Samlinger\Opgaver_Samlinger.csproj", "{7C4F1D01-365C-4F8A-B60C-94D6F266DC12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgaver_Samlinger", "Opgaver_Samlinger\Opgaver_Samlinger.csproj", "{7C4F1D01-365C-4F8A-B60C-94D6F266DC12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_Interface_110_1", "Interface\Opgaver_Interface_110_1.csproj", "{A6F3F59D-A820-4A42-97A5-65BABFA97385}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_interface_110_2", "Opgaver_interface_110_2\Opgaver_interface_110_2.csproj", "{B700E171-6920-4531-8348-9E9746BFAC8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_Interface_110_3_Dependency_Injection", "Opgaver_Interface_110_3_Dependency_Injection\Opgaver_Interface_110_3_Dependency_Injection.csproj", "{DCFA8545-C508-4734-886D-616EFB06F106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_AdvanceType_400_3", "Opgaver_AdvanceType_400_3\Opgaver_AdvanceType_400_3.csproj", "{B6D601BA-28E7-4C70-B84D-B5CB35A274D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_AdvanceTyper_LinkedList_400_2", "Opgaver_AdvanceTyper_LinkedList_400_2\Opgaver_AdvanceTyper_LinkedList_400_2.csproj", "{D010B581-7EC4-4F3F-B38D-DBE157E7DDE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_Samlinger_fibonacci", "Opgaver_Samlinger_fibonacci\Opgaver_Samlinger_fibonacci.csproj", "{9959857F-6034-4B36-A367-A701AE7168A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_Tuples_400_1", "Opgaver_Tuples_400_1\Opgaver_Tuples_400_1.csproj", "{CE705474-25BD-4A21-A6CD-DFED924F3073}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_GeneriskTyperOgMedlemmer_170_2", "Opgaver_GeneriskTyperOgMedlemmer_170_2\Opgaver_GeneriskTyperOgMedlemmer_170_2.csproj", "{11F4835F-9336-481A-B03B-EAC1987973AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_OverLoadOperator_LavDinEgenDataType", "Opgaver_OverLoadOperator_LavDinEgenDataType\Opgaver_OverLoadOperator_LavDinEgenDataType.csproj", "{0731D19D-2876-4E45-B8AD-A3AEA83C4A16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +75,42 @@ Global
 		{7C4F1D01-365C-4F8A-B60C-94D6F266DC12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C4F1D01-365C-4F8A-B60C-94D6F266DC12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C4F1D01-365C-4F8A-B60C-94D6F266DC12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6F3F59D-A820-4A42-97A5-65BABFA97385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F3F59D-A820-4A42-97A5-65BABFA97385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F3F59D-A820-4A42-97A5-65BABFA97385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F3F59D-A820-4A42-97A5-65BABFA97385}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B700E171-6920-4531-8348-9E9746BFAC8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B700E171-6920-4531-8348-9E9746BFAC8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B700E171-6920-4531-8348-9E9746BFAC8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B700E171-6920-4531-8348-9E9746BFAC8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCFA8545-C508-4734-886D-616EFB06F106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCFA8545-C508-4734-886D-616EFB06F106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCFA8545-C508-4734-886D-616EFB06F106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCFA8545-C508-4734-886D-616EFB06F106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D601BA-28E7-4C70-B84D-B5CB35A274D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D601BA-28E7-4C70-B84D-B5CB35A274D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D601BA-28E7-4C70-B84D-B5CB35A274D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D601BA-28E7-4C70-B84D-B5CB35A274D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D010B581-7EC4-4F3F-B38D-DBE157E7DDE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D010B581-7EC4-4F3F-B38D-DBE157E7DDE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D010B581-7EC4-4F3F-B38D-DBE157E7DDE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D010B581-7EC4-4F3F-B38D-DBE157E7DDE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9959857F-6034-4B36-A367-A701AE7168A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9959857F-6034-4B36-A367-A701AE7168A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9959857F-6034-4B36-A367-A701AE7168A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9959857F-6034-4B36-A367-A701AE7168A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE705474-25BD-4A21-A6CD-DFED924F3073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE705474-25BD-4A21-A6CD-DFED924F3073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE705474-25BD-4A21-A6CD-DFED924F3073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE705474-25BD-4A21-A6CD-DFED924F3073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11F4835F-9336-481A-B03B-EAC1987973AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F4835F-9336-481A-B03B-EAC1987973AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F4835F-9336-481A-B03B-EAC1987973AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F4835F-9336-481A-B03B-EAC1987973AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0731D19D-2876-4E45-B8AD-A3AEA83C4A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0731D19D-2876-4E45-B8AD-A3AEA83C4A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0731D19D-2876-4E45-B8AD-A3AEA83C4A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0731D19D-2876-4E45-B8AD-A3AEA83C4A16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

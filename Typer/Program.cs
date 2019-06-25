@@ -13,7 +13,6 @@ namespace Typer
             int x = 233;
 
             Convert.ToInt32(x); // converter til given type og laver fejl håndtering hvis typen man converter ikke kan være i den type man vil convertere over til! 
-
         }
     }
 }
