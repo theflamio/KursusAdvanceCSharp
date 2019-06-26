@@ -47,6 +47,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_Delegates_Simple_Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_Delegates_Log", "Opgaver_Delegates_Log\Opgaver_Delegates_Log.csproj", "{2E1E5013-F49F-4390-8607-3BEF0362DBA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_Delegates_Simple_RegneMaskine_Func", "Opgaver_Delegates_Simple_RegneMaskine_Func\Opgaver_Delegates_Simple_RegneMaskine_Func.csproj", "{6D1046E4-0081-42B5-8A90-94DE909ED80D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_Delegates_Lampda", "Opgaver_Delegates_Lampda\Opgaver_Delegates_Lampda.csproj", "{275E5234-0CC5-4C1B-8253-B54904D01A20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_Events", "Opgaver_Events\Opgaver_Events.csproj", "{79C1244C-560B-4A60-B10E-079058351A6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_Events_KreditMax", "Opgaver_Events_KreditMax\Opgaver_Events_KreditMax.csproj", "{6F2611DF-2832-4F32-BC5E-DFEA5C682BD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_Events_eventtargets_EgenDesign", "Opgaver_Events_eventtargets_kreditMax\Opgaver_Events_eventtargets_EgenDesign.csproj", "{3CF25955-C4AE-4064-8677-9B314114DD82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +151,26 @@ Global
 		{2E1E5013-F49F-4390-8607-3BEF0362DBA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E1E5013-F49F-4390-8607-3BEF0362DBA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E1E5013-F49F-4390-8607-3BEF0362DBA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D1046E4-0081-42B5-8A90-94DE909ED80D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D1046E4-0081-42B5-8A90-94DE909ED80D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D1046E4-0081-42B5-8A90-94DE909ED80D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D1046E4-0081-42B5-8A90-94DE909ED80D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{275E5234-0CC5-4C1B-8253-B54904D01A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275E5234-0CC5-4C1B-8253-B54904D01A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{275E5234-0CC5-4C1B-8253-B54904D01A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{275E5234-0CC5-4C1B-8253-B54904D01A20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79C1244C-560B-4A60-B10E-079058351A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C1244C-560B-4A60-B10E-079058351A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C1244C-560B-4A60-B10E-079058351A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C1244C-560B-4A60-B10E-079058351A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F2611DF-2832-4F32-BC5E-DFEA5C682BD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F2611DF-2832-4F32-BC5E-DFEA5C682BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F2611DF-2832-4F32-BC5E-DFEA5C682BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F2611DF-2832-4F32-BC5E-DFEA5C682BD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF25955-C4AE-4064-8677-9B314114DD82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF25955-C4AE-4064-8677-9B314114DD82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF25955-C4AE-4064-8677-9B314114DD82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF25955-C4AE-4064-8677-9B314114DD82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

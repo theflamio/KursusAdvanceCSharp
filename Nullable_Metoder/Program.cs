@@ -13,7 +13,7 @@ namespace Nullable_Metoder
             val = 2;
             Console.WriteLine($"{HentFraDb(val)}\n");
             val = 3;
-            Console.WriteLine($"{HentFraDb(val)}\n");
+            Console.WriteLine($"{HentFraDb(val)}\n");            
         }
 
         static bool? HentFraDb(int value)

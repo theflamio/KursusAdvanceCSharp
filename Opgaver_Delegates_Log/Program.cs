@@ -44,9 +44,13 @@ namespace Opgaver_Delegates_Log
         }
     }
 
-    /*   Ved anvendelse af action må der ikke være  en retur værdi og man slipper for at skulle lave en new som i delegate   */
+    /*   Ved anvendelse af action må der ikke være en retur værdi og man slipper for at skulle lave en new som i delegate   */
     class Machine2
     {
+        // Action (void)
+        // Func (retur)
+        // Predicate bool(T)
+
         public Action<string> Log { get; set; }
 
         public void Start()
