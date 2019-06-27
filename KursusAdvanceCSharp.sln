@@ -37,25 +37,37 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgaver_GeneriskTyperOgMedl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgaver_OverLoadOperator_LavDinEgenDataType", "Opgaver_OverLoadOperator_LavDinEgenDataType\Opgaver_OverLoadOperator_LavDinEgenDataType.csproj", "{0731D19D-2876-4E45-B8AD-A3AEA83C4A16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_Generisk_klasse", "Opgaver_Generisk_klasse\Opgaver_Generisk_klasse.csproj", "{ADF30CE6-44B1-491A-BE63-7C100E19FADA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgaver_Generisk_klasse", "Opgaver_Generisk_klasse\Opgaver_Generisk_klasse.csproj", "{ADF30CE6-44B1-491A-BE63-7C100E19FADA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_GeneriskTerning", "Opgaver_GeneriskTerning\Opgaver_GeneriskTerning.csproj", "{56344DF0-A9AE-4965-AA54-52B516C653E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgaver_GeneriskTerning", "Opgaver_GeneriskTerning\Opgaver_GeneriskTerning.csproj", "{56344DF0-A9AE-4965-AA54-52B516C653E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_Delegates", "Opgaver_Delegates\Opgaver_Delegates.csproj", "{09374CE8-3C7D-4104-808C-01370B206411}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgaver_Delegates", "Opgaver_Delegates\Opgaver_Delegates.csproj", "{09374CE8-3C7D-4104-808C-01370B206411}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_Delegates_Simple_RegneMaskine", "Opgaver_Delegates_Simple_RegneMaskine\Opgaver_Delegates_Simple_RegneMaskine.csproj", "{F72D611E-E91A-435B-8DF2-B6FEB474599E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgaver_Delegates_Simple_RegneMaskine", "Opgaver_Delegates_Simple_RegneMaskine\Opgaver_Delegates_Simple_RegneMaskine.csproj", "{F72D611E-E91A-435B-8DF2-B6FEB474599E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_Delegates_Log", "Opgaver_Delegates_Log\Opgaver_Delegates_Log.csproj", "{2E1E5013-F49F-4390-8607-3BEF0362DBA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgaver_Delegates_Log", "Opgaver_Delegates_Log\Opgaver_Delegates_Log.csproj", "{2E1E5013-F49F-4390-8607-3BEF0362DBA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_Delegates_Simple_RegneMaskine_Func", "Opgaver_Delegates_Simple_RegneMaskine_Func\Opgaver_Delegates_Simple_RegneMaskine_Func.csproj", "{6D1046E4-0081-42B5-8A90-94DE909ED80D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgaver_Delegates_Simple_RegneMaskine_Func", "Opgaver_Delegates_Simple_RegneMaskine_Func\Opgaver_Delegates_Simple_RegneMaskine_Func.csproj", "{6D1046E4-0081-42B5-8A90-94DE909ED80D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_Delegates_Lampda", "Opgaver_Delegates_Lampda\Opgaver_Delegates_Lampda.csproj", "{275E5234-0CC5-4C1B-8253-B54904D01A20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgaver_Delegates_Lampda", "Opgaver_Delegates_Lampda\Opgaver_Delegates_Lampda.csproj", "{275E5234-0CC5-4C1B-8253-B54904D01A20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_Events", "Opgaver_Events\Opgaver_Events.csproj", "{79C1244C-560B-4A60-B10E-079058351A6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgaver_Events", "Opgaver_Events\Opgaver_Events.csproj", "{79C1244C-560B-4A60-B10E-079058351A6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_Events_KreditMax", "Opgaver_Events_KreditMax\Opgaver_Events_KreditMax.csproj", "{6F2611DF-2832-4F32-BC5E-DFEA5C682BD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgaver_Events_KreditMax", "Opgaver_Events_KreditMax\Opgaver_Events_KreditMax.csproj", "{6F2611DF-2832-4F32-BC5E-DFEA5C682BD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_Events_eventtargets_EgenDesign", "Opgaver_Events_eventtargets_kreditMax\Opgaver_Events_eventtargets_EgenDesign.csproj", "{3CF25955-C4AE-4064-8677-9B314114DD82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Opgaver_Events_eventtargets_EgenDesign", "Opgaver_Events_eventtargets_kreditMax\Opgaver_Events_eventtargets_EgenDesign.csproj", "{3CF25955-C4AE-4064-8677-9B314114DD82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_GarbageCollecting_Using", "Opgaver_GarbageCollecting_Using\Opgaver_GarbageCollecting_Using.csproj", "{F4D8C679-42D6-4738-BD0F-56203E2D8ACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memory_Leaks", "Memory_Leaks\Memory_Leaks.csproj", "{B45B601D-DDA7-49AB-A4D1-91D970DB564D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memory_Leaks_Fjernet", "Memory_Leaks_Fjernet\Memory_Leaks_Fjernet.csproj", "{1F85447E-3568-4C99-9D70-6AEC655E1D95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_Leg_Med_LINQ", "Opgaver_Leg_Med_LINQ\Opgaver_Leg_Med_LINQ.csproj", "{82ECEF9B-CAEE-47AA-B60F-4A24FD1A5513}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_LINQ_Med_Custom_Extensions", "Opgaver_LINQ_Med_Custom_Extensions\Opgaver_LINQ_Med_Custom_Extensions.csproj", "{E7E88F5F-72C2-4EA6-9631-81726D0E04C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opgaver_DataBaser_Entity_Framework", "Opgaver_DataBaser_Entity_Framework\Opgaver_DataBaser_Entity_Framework.csproj", "{842F6006-AB14-4E3D-B00B-0B27E7FC7BD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +183,30 @@ Global
 		{3CF25955-C4AE-4064-8677-9B314114DD82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CF25955-C4AE-4064-8677-9B314114DD82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CF25955-C4AE-4064-8677-9B314114DD82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4D8C679-42D6-4738-BD0F-56203E2D8ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D8C679-42D6-4738-BD0F-56203E2D8ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4D8C679-42D6-4738-BD0F-56203E2D8ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4D8C679-42D6-4738-BD0F-56203E2D8ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B45B601D-DDA7-49AB-A4D1-91D970DB564D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B45B601D-DDA7-49AB-A4D1-91D970DB564D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B45B601D-DDA7-49AB-A4D1-91D970DB564D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B45B601D-DDA7-49AB-A4D1-91D970DB564D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F85447E-3568-4C99-9D70-6AEC655E1D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F85447E-3568-4C99-9D70-6AEC655E1D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F85447E-3568-4C99-9D70-6AEC655E1D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F85447E-3568-4C99-9D70-6AEC655E1D95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82ECEF9B-CAEE-47AA-B60F-4A24FD1A5513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82ECEF9B-CAEE-47AA-B60F-4A24FD1A5513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82ECEF9B-CAEE-47AA-B60F-4A24FD1A5513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82ECEF9B-CAEE-47AA-B60F-4A24FD1A5513}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7E88F5F-72C2-4EA6-9631-81726D0E04C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7E88F5F-72C2-4EA6-9631-81726D0E04C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7E88F5F-72C2-4EA6-9631-81726D0E04C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7E88F5F-72C2-4EA6-9631-81726D0E04C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{842F6006-AB14-4E3D-B00B-0B27E7FC7BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{842F6006-AB14-4E3D-B00B-0B27E7FC7BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{842F6006-AB14-4E3D-B00B-0B27E7FC7BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{842F6006-AB14-4E3D-B00B-0B27E7FC7BD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

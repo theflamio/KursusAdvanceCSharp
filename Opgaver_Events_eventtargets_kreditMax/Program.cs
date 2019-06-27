@@ -32,7 +32,7 @@ namespace Opgaver_Events_eventtargets_kreditMax
                 {
                     KreditOverskredet(this, new KreditOverskredetEventArgs() {saldo = Saldo});
                     // kald til event manglers
-                    Console.r
+                    Console.WriteLine();
                 }
             }
         }
