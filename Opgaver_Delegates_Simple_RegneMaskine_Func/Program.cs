@@ -6,14 +6,14 @@ namespace Opgaver_Delegates_Simple_RegneMaskine_Func
     {
         static void Main(string[] args)
         {
-            int res = beregner(1, 1, plus); // lægger sammen
-            console.writeline(res);
-            res = beregner(1, 1, minus);	// trækker fra
-            console.writeline(res);
-            res = beregner(10, 2, divider); // lægger sammen
-            console.writeline(res);
-            res = beregner(5, 5, gange);	// trækker fra
-            console.writeline(res);
+            int res = Beregner(1, 1, Plus); // lægger sammen
+            Console.WriteLine(res);
+            res = Beregner(1, 1, Minus);	// trækker fra
+            Console.WriteLine(res);
+            res = Beregner(10, 2, Divider); // lægger sammen
+            Console.WriteLine(res);
+            res = Beregner(5, 5, Gange);	// trækker fra
+            Console.WriteLine(res);
 
             //var f = FindTilfældigFunktion();
             //int res4 = f(5, 5);
